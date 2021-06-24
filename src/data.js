@@ -66,7 +66,7 @@ export const storeProducts = [
   },
   {
     id: 6,
-    title: "Leather shoop with premium wallet",
+    title: "Leather shoes with premium wallet",
     img: "img/product-6.png",
     price: 17,
 
